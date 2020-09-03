@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hey, I'm Christian. 
+---
 
-<!--
-**thecbp/thecbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile!
 
-Here are some ideas to get you started:
+### A little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a PhD student at UC San Diego studying Biostatistics
+- My research interests are in furthering the use of wearables
+- I enjoy teaching statistics and programming
+
+### I'm currently working on:
+
+- Applying Bayesian Networks to physical activity data
+- The F chord
+- A pinyin learning tool
+
+### Some projects I've worked on:
+
+- [DSCovR Dashboard: a COVID-19 tracking dashboard](https://msph.shinyapps.io/dscovr_dashboard/)
+
+### Where to find me:
+
+- [LinkedIn](https://www.linkedin.com/in/cbpascual/)
+- [Personal Website](cbpascual.com)
