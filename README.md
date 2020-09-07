@@ -1,5 +1,4 @@
 ## Hey, I'm Christian. 
----
 
 ### A little about me:
 
@@ -11,6 +10,7 @@
 
 - Applying Bayesian Networks to physical activity data
 - The F chord
+- A 2020 Halloween costume
 
 ### Some projects I've worked on:
 
