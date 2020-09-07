@@ -1,8 +1,6 @@
 ## Hey, I'm Christian. 
 ---
 
-Welcome to my Github profile!
-
 ### A little about me:
 
 - I'm a PhD student at UC San Diego studying Biostatistics
@@ -13,11 +11,11 @@ Welcome to my Github profile!
 
 - Applying Bayesian Networks to physical activity data
 - The F chord
-- A pinyin learning tool
 
 ### Some projects I've worked on:
 
-- [DSCovR Dashboard: a COVID-19 tracking dashboard](https://msph.shinyapps.io/dscovr_dashboard/)
+- [DSCovR Dashboard](https://msph.shinyapps.io/dscovr_dashboard/): a state-level COVID-19 tracking dashboard
+- [Watch Your Tone](https://cbpascual.shinyapps.io/watch-your-tone-app/): a Mandarin tone gallery
 
 ### Where to find me:
 
