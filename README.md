@@ -4,7 +4,7 @@
 
 - I'm a PhD student at UC San Diego studying Biostatistics
 - My research interests are in clinical trial design and N-of-1 trials
-- I enjoy teaching statistics and programming
+- I enjoy teaching statistics and programming on [Youtube](https://youtube.com/@very-normal)
 
 ### Some projects I've worked on:
 
